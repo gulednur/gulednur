@@ -1,6 +1,7 @@
 - 👋 hi, i’m @gulednur
 - 👀 interested in cs
-- 🌱 learning java, c# and azure
+- 🌱 html, css, javascript, java
+- azure, azuread, networking 
 - 📫 reach me gulednur@gmail.com
 
 <!---
